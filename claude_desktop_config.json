@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "jmeter": {
+      "command": "node",
+      "args": [
+        "C:/Users/Vijay/Documents/jmeter-mcp-server-ts/dist/index.js"
+      ],
+      "env": {
+        "JMETER_HOME": "C:/apache-jmeter-5.6.3"
+      }
+    }
+  }
+}
